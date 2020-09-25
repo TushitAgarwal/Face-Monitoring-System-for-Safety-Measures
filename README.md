@@ -50,7 +50,7 @@ This project mainly detects drowsiness of a person by continuously scanning the 
  
  This project has been created for the award of Bachelor of Technology degree in Computer Science & Engineering 2016-20 to [author - TUSHIT AGARWAL](https://github.com/TushitAgarwal).
  
- Research Paper has been published in **[International Journal of Future Generation Communication and Networking](http://www.sersc.org/journals/index.php/IJFGCN)** dated 2020-08-24. You may visit the paper **[here](http://sersc.org/journals/index.php/IJFGCN/issue/current)**.
+ Research Paper has been published in **[International Journal of Future Generation Communication and Networking](http://www.sersc.org/journals/index.php/IJFGCN)** dated 2020-08-24. You may refer **[here](http://sersc.org/journals/index.php/IJFGCN/issue/current)**.
  
  
  ## Contributing
@@ -64,9 +64,11 @@ Please make sure to update tests as appropriate.
 [MIT](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/LICENSE/)
 
 
-## Follow me on:
+## Support me at
 
-![LinkedIn(www.linkedin.com)](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/linkedin.png)
+[![LinkedIn](https://www.linkedin.com/in/tushitagarwal/)](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/linkedin.png)
+
+[![Facebook](https://www.facebook.com/tushitagarwal.9)](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/facebook%20(1).svg)
 
  
  
