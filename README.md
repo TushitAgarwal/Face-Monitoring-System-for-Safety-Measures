@@ -16,4 +16,32 @@ This project mainly detects drowsiness of a person by continuously scanning the 
  2. C++ AND C COMPILERS
  3. VISUAL STUDIO 2017
  
-***
+ Note - All all the dependencies to the environment variable.
+ 
+ > **Setting up Virtual Environment**
+ 
+ 1. Open terminal (cmd/ bash).
+ 2. In the main project directory, use
+          ```python -m pip install virtualenv```
+ 3. To activate virtual environment, use the following commands.
+     ```
+     python -m virtualenv venv
+	cd venv/Scripts
+     activate.bat
+     ```
+ 
+ > **Running up the program**
+ 
+ 1. Navigate to the [docs](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/tree/master/docs) folder in the terminal.
+ 2. Install all the python modules, using the command
+     ```python -m pip install -r requirements.txt```
+ 3. Navigate to the [src](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/tree/master/src) folder in the terminal.
+ 4. Run the file using the command,
+     ```python yawning_blink.py```
+ 
+ Note - Turn off the webcam before running the program.
+ 
+ ##That's all! Your project is running.
+ 
+ 
+     
