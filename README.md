@@ -12,11 +12,11 @@ This project mainly detects drowsiness of a person by continuously scanning the 
 
 > **Software Requirements**
      
- 1.  PYTHON >= 3.1 AND <=3.6
- 2. C++ AND C COMPILERS
+ 1.  PYTHON >= 3.1 & <=3.6
+ 2. C & C++ compilers
  3. VISUAL STUDIO 2017
  
- Note - All all the dependencies to the environment variable.
+ **Note - Add all all the dependencies to the environment variable.**
  
  > **Setting up Virtual Environment**
  
@@ -39,9 +39,20 @@ This project mainly detects drowsiness of a person by continuously scanning the 
  4. Run the file using the command,
      ```python yawning_blink.py```
  
- Note - Turn off the webcam before running the program.
+ **Note - Turn off the webcam before running the program.**
  
- ##That's all! Your project is running.
+ ## That's all! Your project is running.
+ 
+ ## Contributing
+ 
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/LICENSE/)
+
  
  
      
