@@ -53,18 +53,20 @@ This project mainly detects drowsiness of a person by continuously scanning the 
  Research Paper has been published in **[International Journal of Future Generation Communication and Networking](http://www.sersc.org/journals/index.php/IJFGCN)** dated 2020-08-24. You may refer **[here](http://sersc.org/journals/index.php/IJFGCN/issue/current)**.
  
  
+## License
+
+[MIT](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/LICENSE/)
+
+
  ## Contributing
  
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
-
-[MIT](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/LICENSE/)
-
-
-
 ***
-**Support me on** [![LinkedIn](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/linkedin.png)](https://www.linkedin.com/in/tushitagarwal/)    <a href="https://www.instagram.com/_tushitagarwal_/"><img src="https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/instagram.png" height="40" width="40" ></a>
+
+**Support me on** 
+
+[![LinkedIn](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/linkedin.png)](https://www.linkedin.com/in/tushitagarwal/)    <a href="https://www.instagram.com/_tushitagarwal_/"><img src="https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/instagram.png" height="40" width="40" ></a>
 
