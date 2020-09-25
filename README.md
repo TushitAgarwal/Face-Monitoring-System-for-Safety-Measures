@@ -41,7 +41,7 @@ This project mainly detects drowsiness of a person by continuously scanning the 
  
  **Note - Turn off the webcam before running the program.**
  
- ## That's all! Your project is running.
+ ***That's all! The project is running.***
  
  ## Contributing
  
