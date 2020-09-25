@@ -1,6 +1,6 @@
 # Face-Monitoring-System-for-Safety-Measures
 
-## Introduction: 
+## Introduction
 
 Safety and security are quite essential while travelling. This does not limit to vehicle robustness and its security features but also includes road accidents and other driving skills. Increasing number of deaths due to road accidents is one of the major issues all over the world. According to a recent survey conducted by the World Health Organisation, approximately 3700 people globally lose their lives daily in road accidents. Out of these, approximately, 20% death reasons are driver’s less consciousness on the road like distraction, drowsiness, fatigueness etc. 
 
@@ -10,7 +10,7 @@ This project mainly detects drowsiness of a person by continuously scanning the 
 
 ![Refer to /Reports and Presentations/images/Research Paper 1](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/images/Research%20Paper%201.png)
 
-## How to run the program:
+## How to run the program
 
 > **Software Requirements**
      
@@ -45,6 +45,14 @@ This project mainly detects drowsiness of a person by continuously scanning the 
  
  ***That's all! The project is running.***
  
+ 
+ ## Certification
+ 
+ This project has been created for the award of Bachelor of Technology degree in Computer Science & Engineering 2016-20 to [author - TUSHIT AGARWAL](https://github.com/TushitAgarwal).
+ 
+ Research Paper has been published in **[International Journal of Future Generation Communication and Networking](http://www.sersc.org/journals/index.php/IJFGCN)** dated 2020-08-24. You may visit the paper **[here](http://sersc.org/journals/index.php/IJFGCN/issue/current)**.
+ 
+ 
  ## Contributing
  
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -54,6 +62,11 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/LICENSE/)
+
+
+## Follow me on:
+
+![LinkedIn(www.linkedin.com)](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/linkedin.png)
 
  
  
