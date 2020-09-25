@@ -64,15 +64,7 @@ Please make sure to update tests as appropriate.
 [MIT](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/LICENSE/)
 
 
-## Support me at
 
-[![LinkedIn](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/linkedin.png)](https://www.linkedin.com/in/tushitagarwal/) <a href="https://www.facebook.com/tushitagarwal.9"><img src="https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/instagram.png" height="40" width="40" ></a>
+***
+**Support me on** [![LinkedIn](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/linkedin.png)](https://www.linkedin.com/in/tushitagarwal/)    <a href="https://www.instagram.com/_tushitagarwal_/"><img src="https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/instagram.png" height="40" width="40" ></a>
 
-
-
-
-[![Facebook](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/instagram.png | height=20px)](https://www.facebook.com/tushitagarwal.9)
-
- 
- 
-     
