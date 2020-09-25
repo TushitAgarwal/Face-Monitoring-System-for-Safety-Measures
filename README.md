@@ -6,7 +6,9 @@ Safety and security are quite essential while travelling. This does not limit to
 
 Drowsiness is the state of “need for sleep” and fatigueness is defined as the “tiredness due to excessive workload”. In both the scenarios, the person is quite unaware of the events occurring in his surroundings similar to the drunk state. Drowsiness of the driver can lead to threat of many lives on the road. This short sleep may result in vehicle imbalancing, unnecessary road cuts and collisions. To eliminate this issue and provide security to drivers, our project detects the driver’s drowsiness using image processing and ML. The aim of our project is to detect driver’s drowsy state as soon as possible and blow a buzzer which alerts the driver. 
 
-This project mainly detects drowsiness of a person by continuously scanning the eyes and face and recording the blinks of the eye. An alarm will be raised if the person’s eyes shut for a long period of time. Similarly, a trigger also raises the alarm if a person's eye is found to be distracted by some object, away from the road. This rising of alarm will alert the driver and thus necessary steps could be taken to avoid mishaps. Several other methods can also be implemented to check driver’s drowsiness and distraction.
+This project mainly detects drowsiness of a person by continuously scanning the eyes and face and recording the blinks of the eye. An alarm will be raised if the person’s eyes shut for a long period of time. Similarly, a trigger also raises the alarm if a person's eye is found to be distracted by some object, away from the road. This rising of alarm will alert the driver and thus necessary steps could be taken to avoid mishaps. Several other methods can also be implemented to check driver’s drowsiness and distraction as shown in figure.
+
+![Refer to /Reports and Presentations/images/Research Paper 1](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/images/Research%20Paper%201.png)
 
 ## How to run the program:
 
