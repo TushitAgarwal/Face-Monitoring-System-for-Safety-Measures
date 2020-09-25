@@ -1,0 +1,69 @@
+
+    ******************************************************************************
+    *     NOTE:   ALL THE STEPS AND REQUIREMENTS ARE FOR WINDOWS-10 (64-BIT)        *
+    *         VERSION - 18363 OPERATING SYSTEM. CONFIGURATIONS MAY VARY                  *
+    *         FROM OS TO OS AND SYSTEM TO SYSTEM.                                                                 *
+    ******************************************************************************
+
+==============================================================================================
+
+--------------------------
+SOFTWARE REQUIREMENTS:
+-------------------------
+
+1) INSTALL ALL THE SOFTWARES AND OTHER DEPENDENCIES OF THIS PROJECT 
+   MENTIONED IN THE "configurations.txt" FILE.
+
+2) REMEMBER TO ADD ALL THOSE DEPENDENCIES INTO YOUR SYSTEM ENVIRONMENT
+   VARIABLE FOR EFFICENT USE WITH TERMINAL.
+
+
+==============================================================================================
+
+------------------
+HOW TO INSTALL:
+------------------
+
+1) OPEN COMMAND PROMPT (TERMINAL/ CMD).
+
+2) NAVIGATE TO THE MAIN DIRECTORY OF THE PROJECT IN CMD.
+	Eg: cd Desktop
+
+3) IF YOU WANT TO SETUP VIRTUAL ENVIRONMENT THEN PROCEDD TO THIS STEP,
+   ELSE SKIP TO STEP 5.
+	RUN THE COMMAND:
+	python -m pip install virtualenv
+
+4) SETUP THE VIRTUALENV BY RUNNING THE FOLLOWING COMMANDS:
+	python -m virtualenv venv
+	cd venv/Scripts
+	activate.bat
+    ( NOTE: In the current directory, folder name "venv" should be present. )
+
+5) NAVIGATE TO THE DIRECTORY "docs" FROM THE MAIN DIRECTORY OF THE PROJECT.
+   RUN THE "requirements.txt" FILE TO INSTALL ALL THE PYTHON MODULES USING COMMAND:
+	python -m pip install -r requirements.txt
+
+6) NAVIGATE TO THE DIRECTORY "src" FROM THE MAIN DIRECTORY OF THE PROJECT.
+   RUN THE "yawning_blink.py" FILE USING THE COMMAND:
+	python yawning_blink.py
+     ( NOTE: Turn-off your system camera first it is open somehow. )
+
+7) THATS ALL! YOUR PROJECT IS RUNNING....
+
+
+=================================================================================================
+
+
+                           ######################################
+                           #                                                                        #
+                           #           THANK YOU                                      #
+                           #                                                                        #
+                           ######################################
+
+
+
+
+
+
+

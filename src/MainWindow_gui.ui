@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>644</width>
+    <height>488</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="QLabel" name="imgLabel">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="frameShape">
+       <enum>QFrame::Box</enum>
+      </property>
+      <property name="text">
+       <string>Live Camera Feed</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <layout class="QVBoxLayout" name="verticalLayout">
+      <item>
+       <widget class="QPushButton" name="openCameraButton">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Minimum" vsizetype="Maximum">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>10</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string>Open Camera</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="stopCameraButton">
+        <property name="font">
+         <font>
+          <pointsize>10</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string>Stop Camera</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="startDetectionButton">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>10</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string>Start Detection</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="stopDetectionButton">
+        <property name="font">
+         <font>
+          <pointsize>10</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string>Stop Detection</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="exitButton">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Minimum" vsizetype="Maximum">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>10</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string>Exit</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <spacer name="verticalSpacer">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>20</width>
+          <height>40</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

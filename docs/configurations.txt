@@ -1,0 +1,15 @@
+
+============================================================
+
+SOFTWARE NEEDED:
+------------------
+
+1) PYTHON >= 3.1 AND <=3.6
+2) C++ AND C COMPILERS
+3) VISUAL STUDIO 2017
+4) Virtual Environment, personal choice, if needed.
+
+NOTE: ALL THE DEPENDENCIES SHOULD BE ADDED TO THE
+      ENVIRONMENT VARIABLE TO THE PATH.
+
+=============================================================

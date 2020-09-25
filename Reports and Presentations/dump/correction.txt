@@ -1,0 +1,44 @@
+PageNo. | Correction to be Done
+
+1.  jaiswal ki spelling
+2.  we hereby declare that.....sbka name aayega n project name bhi
+2.  declaration roman ka page 2 h
+3.  replace thesis with project or report in last line
+3.  jaiswal spelling n it is page 3 in roman
+4.  jaiswal spelling
+5.  page numbering correction
+5.  chapter and page no. header have to remove
+5.  bonafide certificate ni hta only certificate
+5.  table of content ka column table of content mei se htana h 
+5.  list of figures hta h not list of pictures
+5.  abstract and list of figures table of content ke upr shift krna h
+5.  1. CHAPTER 1: INTRODUCTION replace this to CHAPTER 1: INTRODUCTION.........means we have to remove bullets and numberings      and only keep headings in labels.
+5.  add research paper index at last in the table of contents and add camera ready format and acceptance of research paper at      last of the report
+5.  replace intro with "introduction and background"
+5.  replace specification analysis with requirements analysis
+5.  chapter 3 is literature survey
+5.  chapter 4 is designing....new content......add dfd's, er diagram.....use case diagram...block diagram etc. in this             section.
+5.  chapter 5 is problem description
+6.  remove chapter 5
+6.  add a chapter 5 "Proposed system" and add only algorithms etc.
+6.  replace chapter 7  heading with Implementations
+6.  references ke baad research paper uske baad appendix ...jismei saara code aayega
+6.  in chapter 6 onlyy main functions of coding which is essential in system should be shown their.
+8.  Abstract has to be changed...it needs to be small...copy abstract of research paper only.
+9.  figure name has to be changed here also and in all the report...figure to be named acc. to chapter name...like fig-1.1
+9.  table border has to be hidden
+9.  fig-4 name has to be changed from algo used to something else
+10. page no. has to be added
+11. 1.3.1 like sections...heading size has to be changed...heading size has to be heirarcical.
+11. left margin has to be increased in whole report in a consistent way
+11. 1.3.2 space in content has to be adjusted.
+13. hardware requirements mei camera has to be added....and requirements can be of our system only..
+13. remove 2.2 and if you have to write, write it in the form of configurations.
+15. problem description has to be short, precise and technical and should be relevant content. if theory has to be written         then it should be sub- section.
+19. literature review/ survey...chapter name has to be changed with all of its contents.......these all contents have to be        shifted in introduction if imp. and in this chapter all references with their heading and abstract has to be added...jha       se be content lia h report ke lie..indcluding idea etc.
+24. swap page 24 and 25 and logo has to be shrinked.
+25. remove computer vision 5.1.2
+29. remove 5.2 and all till page 33. add only methodology relevant content... if required add this in introduction
+33. 5.3 fig has to be changed...name has to be added..
+33. remove drowsiness word from whole report....replace with some relevant method
+52. test cases with test case and use case table should be shown in the report.
