@@ -64,9 +64,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-***
 
-**Support me on** 
 
-[![LinkedIn](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/linkedin.png)](https://www.linkedin.com/in/tushitagarwal/)    <a href="https://www.instagram.com/_tushitagarwal_/"><img src="https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/instagram.png" height="40" width="40" ></a>
+## **Support me on** 
+
+
+<a href="https://www.linkedin.com/in/tushitagarwal/"><img src="ttps://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/linkedin.png" height="34" width="34" ></a> &nbsp; &nbsp;   <a href="https://www.instagram.com/_tushitagarwal_/"><img src="https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/instagram.png" height="34" width="34" ></a>
 
