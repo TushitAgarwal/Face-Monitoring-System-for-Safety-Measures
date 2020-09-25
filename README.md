@@ -66,7 +66,12 @@ Please make sure to update tests as appropriate.
 
 ## Support me at
 
-[![LinkedIn](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/linkedin.png)](https://www.linkedin.com/in/tushitagarwal/) [![Facebook](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/instagram.png | height=20px)](https://www.facebook.com/tushitagarwal.9)
+[![LinkedIn](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/linkedin.png)](https://www.linkedin.com/in/tushitagarwal/) <a href="https://www.facebook.com/tushitagarwal.9"><img src="https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/instagram.png" height="40" width="40" ></a>
+
+
+
+
+[![Facebook](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/instagram.png | height=20px)](https://www.facebook.com/tushitagarwal.9)
 
  
  
