@@ -55,7 +55,7 @@ This project mainly detects drowsiness of a person by continuously scanning the 
  
 ## License
 
-[MIT](https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/LICENSE/)
+[GNU General Public License v3.0](/LICENSE/)
 
 
  ## Contributing
