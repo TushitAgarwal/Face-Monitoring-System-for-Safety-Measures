@@ -69,5 +69,5 @@ Please make sure to update tests as appropriate.
 ## **Support me on** 
 
 
-<a href="https://www.linkedin.com/in/tushitagarwal/"><img src="https://github.com/TushitAgarwal/Readme-Social-links-and-formats/blob/master/download.jpg height="34" width="34" ></a> &nbsp; &nbsp;   <a href="https://www.instagram.com/_tushitagarwal_/"><img src="https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/instagram.png" height="34" width="34" ></a>
+<a href="https://www.linkedin.com/in/tushitagarwal/"><img src="https://github.com/TushitAgarwal/Readme-Social-links-and-formats/blob/master/download.jpg" height="34" width="34" ></a> &nbsp; &nbsp;   <a href="https://www.instagram.com/_tushitagarwal_/"><img src="https://github.com/TushitAgarwal/Face-Monitoring-System-for-Safety-Measures/blob/master/Reports%20and%20Presentations/dump/instagram.png" height="34" width="34" ></a>
 
